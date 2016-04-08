@@ -1,0 +1,28 @@
+body {
+  background: url("image/thumb_vape_1024.jpg");
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  color: white;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+ul{
+  padding: 10px;
+  background-color: white;
+}
+li{
+  display: inline;
+  padding: 0px 185px 0px 185px;
+  font-size: 25px;
+}
+p{
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
